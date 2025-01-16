@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787669374452",
+    "project_id": "freelancer-app-84f79",
+    "storage_bucket": "freelancer-app-84f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787669374452:android:456ccbd1e8991729bc15a1",
+        "android_client_info": {
+          "package_name": "com.example.berkeserinfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAIlbzGFU9aiyhoa-2jnqWrjltPp8zt48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
