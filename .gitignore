@@ -36,6 +36,8 @@ migrate_working_dir/
 
 # Flutter Web build
 frontend/build/   
+frontend/node_modules/
+
 
 # Node.js backend
 backend/node_modules/
